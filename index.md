@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Welcome to USAlternative
 
-You can use the [editor on GitHub](https://github.com/usalternative/usalternative.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+USAlternative aims to provide a list of services for those opting to "vote with their feet" and refrain from
+using US-based services for a myriad if reasons.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Please submit pull requests with services you believe should be on this list.
 
-### Markdown
+### Search
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [Ecosia](https://www.ecosia.org) - Based in Berlin, this search engine also donates 80% of its surplus income to non-profit conservationist organizations, with a focus on tree planting.
+- [Exalead](https://www.exalead.com) - Based in Paris, France.
+- [Yandex](https://www.yandex.com) - A Russian-based search engine.
 
-```markdown
-Syntax highlighted code block
+### Cloud
 
-# Header 1
-## Header 2
-### Header 3
+- [AlibabaCloud](https://www.alibabacloud.com) - A sophisticated cloud platform from China offering multiple services we've come to expect from a cloud (elastic compute,containers, load-balancing, CDN, storage, databases etc).
 
-- Bulleted
-- List
+### Enterprise Cloud
 
-1. Numbered
-2. List
+- [Fujitsu](http://www.fujitsu.com/global/solutions/cloud) - A Japanese giant offering private and hybrid cloud (OpenStack) among many other enterprise services.
 
-**Bold** and _Italic_ and `Code` text
+## Hosting
 
-[Link](url) and ![Image](src)
-```
+- [Hetzner](https://www.hetzner.com) - A hosting provider based in Germany offering dedicated servers, VPS and private-cloud at very reasonable prices.
+- [OVH](https://www.ovh.com) - A French hosting provider with datacenters all over the world at a veriety of sizes.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Git repo hosting
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/usalternative/usalternative.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [BitBucket](https://bitbucket.org) - By Atlassian, an Australian company, offers free public **and private** repo storage.
